@@ -1,2 +1,3 @@
 # toy_ds_project
-project creation date: Oct 9, 2026
+Project creation date: Oct 9, 2026
+Author: Nomin Galt
